@@ -16,10 +16,6 @@
 
 ### 1. Клонируйте репозиторий
 
-```bash
-git clone https://github.com/yourusername/gemini-chatbot.git
-cd gemini-chatbot
-```
 ### 2. Установите зависимости
 ```bash
 pip install -r requirements.txt
